@@ -11,6 +11,7 @@
     grid-template-columns: repeat(2, 1fr);
 }
 
+
 .gap-16{
     gap:16px;
 }
